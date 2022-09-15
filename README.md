@@ -34,6 +34,10 @@ Metodos:
 TDD
 SOLID
 
+Desenho do sistema de database:
+
+![alt text](path/to/file)
+
 ---- ENDPOINTS DO BACKEND ----
 
 POST /Login - 
