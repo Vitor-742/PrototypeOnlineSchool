@@ -36,7 +36,7 @@ SOLID
 
 Desenho do sistema de database:
 
-![alt text](path/to/file)
+![alt text](https://github.com/Vitor-742/PrototypeOnlineSchool/blob/main/Desenho_database.png?raw=true)
 
 ---- ENDPOINTS DO BACKEND ----
 
