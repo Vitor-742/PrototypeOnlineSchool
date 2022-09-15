@@ -29,7 +29,7 @@ Sequelize
 bcrypt
 dotenv
 
-Metodos:
+Métodos:
 
 TDD
 SOLID
